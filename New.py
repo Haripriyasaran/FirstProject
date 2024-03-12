@@ -1,2 +1,2 @@
 print('Hello, world!')
-print('Good Morning')
+print('Good Afternoon')
