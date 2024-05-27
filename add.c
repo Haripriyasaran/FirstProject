@@ -23,4 +23,3 @@ int main()
 
     printf("%d + %d = %d", num1, num2, sum);
     return 0;
-}
